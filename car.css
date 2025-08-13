@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    text-align:center ;
+    font-size: 50px;
+    background-color: rgb(rgb(100, 16, 16), green, blue);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 900;
+    border: salmon solid 2px;
+    border-radius: 500px;
+}
